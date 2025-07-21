@@ -1,4 +1,4 @@
-#GrayScale Chrome
-Convert any webpage to grayscale
+# GrayScale Chrome
+Converts any webpage to grayscale
 
 Doesnt work on Home Page.
